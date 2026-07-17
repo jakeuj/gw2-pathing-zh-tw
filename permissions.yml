@@ -6,6 +6,13 @@ project:
   commercial_use: false
   audited_at: "2026-07-17"
   source_index: "https://mp-repo.blishhud.com/repo.json"
+workflow:
+  pilot_issues_created_at: "2026-07-17"
+  pilot_review_not_before: "2026-07-20T12:00:00+08:00"
+  next_wave: 2
+  maximum_issues_per_day: 7
+  minimum_wave_spacing_days: 1
+  external_contacts_require_manual_delivery: true
 translation_scope:
   translated_fields:
     - "displayname"

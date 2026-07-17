@@ -7,13 +7,13 @@ Last repository check: 2026-07-17.
 The repositories below have Issues enabled, are not archived, contain no root
 license file, and had no matching license or translation request when checked.
 
-| Issue repository | Packs covered |
-|---|---|
-| `xrandox/TehsTrails` | Teh's Trails - Map Completion; Automatic Arrows; Teh's Trails - Hero Points; Mad King's Labyrinth - Commander Pack |
-| `LadyElyssa/LadyElyssaAchievementGuides` | Lady Elyssa's Achievements & Collections; Lady Elyssa's Guides |
-| `SZG5/gw2-dungeon-markers` | [FvD] Dungeon Markers; Twisted Castle |
-| `n1nj44r91/Tyria-Drift-DRFT-GW2-TacO-Racetracks` | Tyria [DRFT]; Tyria [DRFT] Grand Prix |
-| `QuitarHero/Heros-Marker-Pack` | Hero's Marker Pack |
+| Issue repository | Packs covered | Request |
+|---|---|---|
+| `xrandox/TehsTrails` | Teh's Trails - Map Completion; Automatic Arrows; Teh's Trails - Hero Points; Mad King's Labyrinth - Commander Pack | [#54](https://github.com/xrandox/TehsTrails/issues/54) |
+| `LadyElyssa/LadyElyssaAchievementGuides` | Lady Elyssa's Achievements & Collections; Lady Elyssa's Guides | [#20](https://github.com/LadyElyssa/LadyElyssaAchievementGuides/issues/20) |
+| `SZG5/gw2-dungeon-markers` | [FvD] Dungeon Markers; Twisted Castle | [#1](https://github.com/SZG5/gw2-dungeon-markers/issues/1) |
+| `n1nj44r91/Tyria-Drift-DRFT-GW2-TacO-Racetracks` | Tyria [DRFT]; Tyria [DRFT] Grand Prix | [#1](https://github.com/n1nj44r91/Tyria-Drift-DRFT-GW2-TacO-Racetracks/issues/1) |
+| `QuitarHero/Heros-Marker-Pack` | Hero's Marker Pack | [#78](https://github.com/QuitarHero/Heros-Marker-Pack/issues/78) |
 
 For authors with multiple repositories, the issue body lists every repository
 covered by the request. If an author requests separate repository-specific
