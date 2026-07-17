@@ -14,8 +14,10 @@ No unlicensed marker-pack content is stored or distributed here.
   their individual license conditions.
 - 38 packs require an explicit license or written permission before a
   translated version can be published.
-- The first contact wave opened 5 GitHub issues covering 11 packs from 5
-  authors on 2026-07-17.
+- All 26 GitHub rights-holder groups were contacted on 2026-07-17, covering 32
+  packs that lacked an explicit license.
+- The remaining 6 unlicensed entries belong to 5 external contact groups and
+  require manual Discord, Reddit, email, or in-game delivery.
 
 The machine-readable record is in [`permissions.yml`](permissions.yml). Contact
 targets and message templates are documented in [`TARGETS.md`](TARGETS.md) and
