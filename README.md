@@ -1,0 +1,72 @@
+# GW2 Pathing Traditional Chinese Translation Project
+
+This repository tracks licensing and permissions for a planned non-commercial
+Traditional Chinese (`zh-TW`) localization of Guild Wars 2 marker packs used by
+Blish HUD Pathing.
+
+No unlicensed marker-pack content is stored or distributed here.
+
+## Current status
+
+- 46 packs are tracked from the Pathing community repository audit dated
+  2026-07-17.
+- 8 packs have an explicit license that permits derivative works, subject to
+  their individual license conditions.
+- 38 packs require an explicit license or written permission before a
+  translated version can be published.
+- The first contact wave contains 5 GitHub issues covering 11 packs from 5
+  authors.
+
+The machine-readable record is in [`permissions.yml`](permissions.yml). Contact
+targets and message templates are documented in [`TARGETS.md`](TARGETS.md) and
+[`CONTACT_TEMPLATES.md`](CONTACT_TEMPLATES.md).
+
+## Planned localization scope
+
+The first version will only translate user-facing text such as:
+
+- category `displayname` values;
+- marker `info` text;
+- user-facing `copy-message` text.
+
+Routes, coordinates, icons, images, scripts, and gameplay behavior will not be
+modified. Files required for a translated package to function would still need
+to be redistributed, so permission must cover both the textual adaptation and
+public redistribution of those necessary files.
+
+## Permission policy
+
+Non-commercial use does not replace the need for a license or permission.
+Translation and redistribution will start only when one of these is available:
+
+1. an explicit public license that permits derivative works and redistribution
+   and applies to the marker-pack content; or
+2. a clear written permission from the rights holder covering the planned
+   `zh-TW` translation and public redistribution.
+
+Ambiguous approval, silence, or a repository being public is not treated as
+permission. Third-party content not controlled by the author remains excluded
+unless its own terms permit the intended use.
+
+## Status values
+
+- `licensed`: a public license permitting the planned work was found.
+- `pending`: permission has been requested or still needs to be requested.
+- `permission_granted`: the author granted sufficiently specific permission.
+- `declined`: the author declined the request.
+- `no_response`: no answer after one follow-up and 30 days.
+- `third_party_blocked`: required content cannot be redistributed under the
+  available terms.
+
+## Release rules
+
+- Every translated pack will be released separately.
+- The original author and source will be prominently credited.
+- The translated fields and other changes will be documented.
+- The exact upstream version or commit will be pinned before work starts.
+- The applicable license or permission evidence will be included in the
+  release package.
+- No translated package will be sold, paywalled, or used commercially by this
+  project.
+
+This repository is a permission and risk-management record, not legal advice.
