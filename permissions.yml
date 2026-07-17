@@ -30,6 +30,9 @@ x-pack-defaults: &pack_defaults
   license: null
   license_evidence: null
   issue_url: null
+  contacted_at: null
+  follow_up_due: null
+  no_response_review_due: null
   permission_evidence: null
   attribution: null
   third_party_exclusions: null
@@ -54,6 +57,10 @@ packs:
     upstream: "https://github.com/SZG5/gw2-dungeon-markers"
     contact_group: "SZG5"
     contact_repo: "SZG5/gw2-dungeon-markers"
+    issue_url: "https://github.com/SZG5/gw2-dungeon-markers/issues/1"
+    contacted_at: "2026-07-17"
+    follow_up_due: "2026-07-31"
+    no_response_review_due: "2026-08-16"
     status: "pending"
   - <<: *pack_defaults
     name: "[MOAR] Marker Pack"
@@ -102,6 +109,10 @@ packs:
     upstream: "https://github.com/xrandox/Automatic-Arrows"
     contact_group: "xrandox"
     contact_repo: "xrandox/TehsTrails"
+    issue_url: "https://github.com/xrandox/TehsTrails/issues/54"
+    contacted_at: "2026-07-17"
+    follow_up_due: "2026-07-31"
+    no_response_review_due: "2026-08-16"
     status: "pending"
   - <<: *pack_defaults
     name: "Convergence Corp Trails"
@@ -153,6 +164,10 @@ packs:
     upstream: "https://github.com/QuitarHero/Heros-Marker-Pack"
     contact_group: "QuitarHero"
     contact_repo: "QuitarHero/Heros-Marker-Pack"
+    issue_url: "https://github.com/QuitarHero/Heros-Marker-Pack/issues/78"
+    contacted_at: "2026-07-17"
+    follow_up_due: "2026-07-31"
+    no_response_review_due: "2026-08-16"
     status: "pending"
   - <<: *pack_defaults
     name: "HeroineDark's Guides"
@@ -178,6 +193,10 @@ packs:
     upstream: "https://github.com/LadyElyssa/LadyElyssaAchievementGuides"
     contact_group: "LadyElyssa"
     contact_repo: "LadyElyssa/LadyElyssaAchievementGuides"
+    issue_url: "https://github.com/LadyElyssa/LadyElyssaAchievementGuides/issues/20"
+    contacted_at: "2026-07-17"
+    follow_up_due: "2026-07-31"
+    no_response_review_due: "2026-08-16"
     status: "pending"
   - <<: *pack_defaults
     name: "Lady Elyssa's Guides"
@@ -185,6 +204,10 @@ packs:
     upstream: "https://github.com/LadyElyssa/LadyElyssaTacoTrails"
     contact_group: "LadyElyssa"
     contact_repo: "LadyElyssa/LadyElyssaAchievementGuides"
+    issue_url: "https://github.com/LadyElyssa/LadyElyssaAchievementGuides/issues/20"
+    contacted_at: "2026-07-17"
+    follow_up_due: "2026-07-31"
+    no_response_review_due: "2026-08-16"
     status: "pending"
   - <<: *pack_defaults
     name: "Linus's VoE Chest Farm"
@@ -198,6 +221,10 @@ packs:
     upstream: "https://github.com/xrandox/Tehs_Trails_MKL"
     contact_group: "xrandox"
     contact_repo: "xrandox/TehsTrails"
+    issue_url: "https://github.com/xrandox/TehsTrails/issues/54"
+    contacted_at: "2026-07-17"
+    follow_up_due: "2026-07-31"
+    no_response_review_due: "2026-08-16"
     status: "pending"
   - <<: *pack_defaults
     name: "Mesmer Fractal Skips"
@@ -301,6 +328,10 @@ packs:
     upstream: "https://github.com/xrandox/TehsTrails"
     contact_group: "xrandox"
     contact_repo: "xrandox/TehsTrails"
+    issue_url: "https://github.com/xrandox/TehsTrails/issues/54"
+    contacted_at: "2026-07-17"
+    follow_up_due: "2026-07-31"
+    no_response_review_due: "2026-08-16"
     status: "pending"
   - <<: *pack_defaults
     name: "Teh's Trails - Hero Points"
@@ -308,6 +339,10 @@ packs:
     upstream: "https://github.com/xrandox/TehsTrails-HeroPoints"
     contact_group: "xrandox"
     contact_repo: "xrandox/TehsTrails"
+    issue_url: "https://github.com/xrandox/TehsTrails/issues/54"
+    contacted_at: "2026-07-17"
+    follow_up_due: "2026-07-31"
+    no_response_review_due: "2026-08-16"
     status: "pending"
   - <<: *pack_defaults
     name: "Tekkit's All-In-One"
@@ -329,6 +364,10 @@ packs:
     upstream: "https://github.com/n1nj44r91/Tyria-Drift-DRFT-GW2-TacO-Racetracks"
     contact_group: "n1nj44r91"
     contact_repo: "n1nj44r91/Tyria-Drift-DRFT-GW2-TacO-Racetracks"
+    issue_url: "https://github.com/n1nj44r91/Tyria-Drift-DRFT-GW2-TacO-Racetracks/issues/1"
+    contacted_at: "2026-07-17"
+    follow_up_due: "2026-07-31"
+    no_response_review_due: "2026-08-16"
     status: "pending"
   - <<: *pack_defaults
     name: "Tyria [DRFT] Grand Prix"
@@ -336,6 +375,10 @@ packs:
     upstream: "https://github.com/n1nj44r91/Tyria-Drift-DRFT-GW2-TacO-Grand-Prix-Tracks"
     contact_group: "n1nj44r91"
     contact_repo: "n1nj44r91/Tyria-Drift-DRFT-GW2-TacO-Racetracks"
+    issue_url: "https://github.com/n1nj44r91/Tyria-Drift-DRFT-GW2-TacO-Racetracks/issues/1"
+    contacted_at: "2026-07-17"
+    follow_up_due: "2026-07-31"
+    no_response_review_due: "2026-08-16"
     status: "pending"
   - <<: *pack_defaults
     name: "Twisted Castle"
@@ -343,6 +386,10 @@ packs:
     upstream: "https://github.com/SZG5/gw2-twisted-castle"
     contact_group: "SZG5"
     contact_repo: "SZG5/gw2-dungeon-markers"
+    issue_url: "https://github.com/SZG5/gw2-dungeon-markers/issues/1"
+    contacted_at: "2026-07-17"
+    follow_up_due: "2026-07-31"
+    no_response_review_due: "2026-08-16"
     status: "pending"
   - <<: *pack_defaults
     name: "VoE Mirrors and Obscure Chests"
