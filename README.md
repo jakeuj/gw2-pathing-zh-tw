@@ -12,14 +12,14 @@ No unlicensed marker-pack content is stored or distributed here.
   2026-07-17.
 - 8 packs have an explicit license that permits derivative works, subject to
   their individual license conditions.
-- 1 pack, Tekkit's All-In-One, has project-specific written permission for a
-  free, non-commercial `zh-TW` translation and redistribution of the current
-  version.
-- 37 packs still require an explicit license or sufficiently clear written
+- 2 packs have project-specific written permission for free, non-commercial
+  `zh-TW` translation and redistribution: [fast] TacO Markers for its current
+  and future versions, and Tekkit's All-In-One for its current version.
+- 36 packs still require an explicit license or sufficiently clear written
   permission before a translated version can be published.
 - All 26 GitHub rights-holder groups were contacted on 2026-07-17, covering 32
   packs that lacked an explicit license.
-- The remaining 5 entries without permission belong to 4 external contact
+- The remaining 4 entries without permission belong to 3 external contact
   groups and require manual Discord, Reddit, email, or in-game delivery.
 
 The machine-readable record is in [`permissions.yml`](permissions.yml). Contact

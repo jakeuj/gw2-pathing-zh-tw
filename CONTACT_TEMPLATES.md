@@ -42,10 +42,12 @@ Body template:
 
 > Thank you. To make sure I understand correctly, does your approval explicitly include both (1) translating the user-facing text and (2) publicly redistributing a separate non-commercial `.taco` package containing the unchanged files required for the pack to function? Please also note whether the approval covers future versions you publish and whether any third-party assets are excluded.
 
-## External contact: [fast] TacO Markers
+## Completed external contact: [fast] TacO Markers
 
-Send through the [fast] Farming Community Discord (`#website-feedback`, or the
-channel to which moderators redirect the request):
+Sent through the [fast] Farming Community Discord in `#website-discussion`.
+Arckange granted permission on 2026-07-17; see the
+[Discord permission record](evidence/discord/fast-taco-markers-2026-07-17.md).
+The original request was:
 
 > Hi! I would like to ask the rights holder for **[fast] TacO Markers** for permission to create and publicly redistribute a free, non-commercial Traditional Chinese (`zh-TW`) version for Blish HUD Pathing. I would only translate category names and user-facing marker text; routes, coordinates, images, icons, and scripts would remain unchanged. The separate `.taco` package would still include the unchanged files needed to work. I will credit [fast], link the original source, and clearly identify the translation. Could the rights holder either add an explicit license covering modification and redistribution, or provide written permission for this project? Please also identify any third-party content that cannot be redistributed and the preferred attribution wording. I will not publish without explicit permission.
 
