@@ -62,9 +62,12 @@ Send to [u/ReActif](https://www.reddit.com/user/ReActif/) or `taco@heinze.fr`:
 
 > Hi ReActif, I found your existing multilingual work and translation sheet for the ReActif marker packs. I would like to create and publicly redistribute free, non-commercial Traditional Chinese (`zh-TW`) versions of **ReActif EN** and **ReActif FR** for Blish HUD Pathing. I would only translate category names and user-facing marker text; routes, coordinates, images, icons, and scripts would remain unchanged. Because Pathing does not currently select localized marker strings at runtime, these would be separate `.taco` packages containing the unchanged files needed to work. Could you either add an explicit license covering modification and redistribution or provide written permission for this project? I will credit you, link the original source, and identify the translated text. Please also note any third-party exclusions, preferred attribution, and whether future versions are covered. If you would prefer to publish the `zh-TW` version yourself, I would be happy to provide the translation data instead. I will not publish without explicit permission.
 
-## External contact: Tekkit's All-In-One
+## Completed external contact: Tekkit's All-In-One
 
-Send through the Tekkit's Workshop Discord in `#all-in-one-requests`:
+Sent through the Tekkit's Workshop Discord. Tekkit granted permission on
+2026-07-18; see the
+[Discord permission record](evidence/discord/tekkit-all-in-one-2026-07-18.md).
+The original request was:
 
 > Hi Tekkit, I would like permission to create and publicly redistribute a free, non-commercial Traditional Chinese (`zh-TW`) version of **Tekkit's All-In-One Marker Pack** for Blish HUD Pathing. I would only translate category names and user-facing marker text; routes, coordinates, images, icons, and scripts would remain unchanged. A separate `.taco` package would still include the unchanged files required to work. I will credit Tekkit's Workshop, link the original pack, and clearly identify the translation. Could you either add an explicit license applying to the marker-pack content or provide written project-specific permission covering translation and public redistribution? Please also identify any third-party content that must be excluded, preferred attribution, and whether future versions are covered. If you would rather publish the `zh-TW` version yourself, I can provide the translation data. I will not publish without explicit permission.
 
