@@ -56,17 +56,22 @@ project owner waived the pilot waiting period.
 
 ## External contacts
 
-These five author groups do not have a suitable GitHub issue target. Messages
-are prepared in `CONTACT_TEMPLATES.md` and must be sent manually through the
-listed service.
+These four remaining author groups do not have a suitable GitHub issue target.
+Messages are prepared in `CONTACT_TEMPLATES.md` and must be sent manually
+through the listed service.
 
 | Packs | Contact |
 |---|---|
 | [fast] TacO Markers | [fast] Discord, starting in `#website-feedback` |
 | [MOAR] Marker Pack | Guild Wars 2 account `Binary.9413`; request durable written or public confirmation |
 | ReActif EN and ReActif FR | Reddit `u/ReActif` or `taco@heinze.fr` |
-| Tekkit's All-In-One | Tekkit's Workshop Discord, `#all-in-one-requests` |
 | The Tryhard Marker Pack | Reddit `u/Deroir` |
+
+## Completed external contacts
+
+| Pack | Result |
+|---|---|
+| Tekkit's All-In-One | Permission granted through Discord on 2026-07-18; see the [permission record](evidence/discord/tekkit-all-in-one-2026-07-18.md). |
 
 ## Follow-up timing
 

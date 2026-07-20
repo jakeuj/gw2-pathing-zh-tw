@@ -12,12 +12,15 @@ No unlicensed marker-pack content is stored or distributed here.
   2026-07-17.
 - 8 packs have an explicit license that permits derivative works, subject to
   their individual license conditions.
-- 38 packs require an explicit license or written permission before a
-  translated version can be published.
+- 1 pack, Tekkit's All-In-One, has project-specific written permission for a
+  free, non-commercial `zh-TW` translation and redistribution of the current
+  version.
+- 37 packs still require an explicit license or sufficiently clear written
+  permission before a translated version can be published.
 - All 26 GitHub rights-holder groups were contacted on 2026-07-17, covering 32
   packs that lacked an explicit license.
-- The remaining 6 unlicensed entries belong to 5 external contact groups and
-  require manual Discord, Reddit, email, or in-game delivery.
+- The remaining 5 entries without permission belong to 4 external contact
+  groups and require manual Discord, Reddit, email, or in-game delivery.
 
 The machine-readable record is in [`permissions.yml`](permissions.yml). Contact
 targets and message templates are documented in [`TARGETS.md`](TARGETS.md) and
@@ -49,6 +52,11 @@ Translation and redistribution will start only when one of these is available:
 Ambiguous approval, silence, or a repository being public is not treated as
 permission. Third-party content not controlled by the author remains excluded
 unless its own terms permit the intended use.
+
+Discord permissions are recorded under [`evidence/discord`](evidence/discord/)
+with a transcript, timestamp, message link, screenshot, and screenshot hash.
+Private Discord links are treated only as supporting metadata because other
+readers may not be able to open them.
 
 ## Status values
 
