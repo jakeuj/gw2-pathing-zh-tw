@@ -44,6 +44,8 @@ x-pack-defaults: &pack_defaults
   follow_up_due: null
   no_response_review_due: null
   permission_evidence: null
+  permission_scope: null
+  version_scope: null
   attribution: null
   third_party_exclusions: null
   last_checked_at: "2026-07-17"
@@ -440,7 +442,14 @@ packs:
     upstream: "https://www.tekkitsworkshop.net/markers/all-in-one-marker-pack"
     contact_group: "TekkitsWorkshop"
     contact_channel: "https://discord.com/invite/d6RTeeB (#all-in-one-requests)"
-    status: "pending"
+    contacted_at: "2026-07-17"
+    permission_evidence: "https://github.com/jakeuj/gw2-pathing-zh-tw/blob/main/evidence/discord/tekkit-all-in-one-2026-07-18.md"
+    permission_scope: "Create and publicly redistribute a free, non-commercial zh-TW version of the current pack; use, modify, and redistribute the supplied assets."
+    version_scope: "Current version covered by the 2026-07-17/18 conversation; recheck future versions before use."
+    attribution: "Credit Tekkit's Workshop, link the original pack, and identify the translated or modified text."
+    third_party_exclusions: "Exclude content Tekkit does not have authority to license. Audit assets.zip before release; Bebas Kai is a separate font dependency and must not be bundled without permission from its own license."
+    last_checked_at: "2026-07-20"
+    status: "permission_granted"
   - <<: *pack_defaults
     name: "The Tryhard Marker Pack"
     author: "Deroir"
