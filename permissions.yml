@@ -264,6 +264,7 @@ packs:
     contacted_at: "2026-07-17"
     follow_up_due: "2026-07-31"
     no_response_review_due: "2026-08-16"
+    last_checked_at: "2026-07-22"
     status: "pending"
   - <<: *pack_defaults
     name: "Lady Elyssa's Guides"
@@ -275,6 +276,7 @@ packs:
     contacted_at: "2026-07-17"
     follow_up_due: "2026-07-31"
     no_response_review_due: "2026-08-16"
+    last_checked_at: "2026-07-22"
     status: "pending"
   - <<: *pack_defaults
     name: "Linus's VoE Chest Farm"
