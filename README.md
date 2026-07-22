@@ -10,12 +10,14 @@ No unlicensed marker-pack content is stored or distributed here.
 
 - 46 packs are tracked from the Pathing community repository audit dated
   2026-07-17.
-- 8 packs have an explicit license that permits derivative works, subject to
+- 10 packs have an explicit license that permits derivative works, subject to
   their individual license conditions.
-- 2 packs have project-specific written permission for free, non-commercial
+- 4 packs have project-specific written permission for free, non-commercial
   `zh-TW` translation and redistribution: [fast] TacO Markers for its current
-  and future versions, and Tekkit's All-In-One for its current version.
-- 36 packs still require an explicit license or sufficiently clear written
+  and future versions, Tekkit's All-In-One for its current version, Aixxel's
+  HP train guides for current and future versions, and Apo's Boss Markers for
+  current and future versions (excluding `Assets/icons/madge.png`).
+- 32 packs still require an explicit license or sufficiently clear written
   permission before a translated version can be published.
 - All 26 GitHub rights-holder groups were contacted on 2026-07-17, covering 32
   packs that lacked an explicit license.
