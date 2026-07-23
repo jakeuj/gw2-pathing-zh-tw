@@ -1,10 +1,26 @@
 # GW2 Pathing Traditional Chinese Translation Project
 
+[繁體中文專案網站](https://gw2-pathing.jakeuj.com/) ·
+[Permission record](permissions.yml) ·
+[Contact status](TARGETS.md)
+
 This repository tracks licensing and permissions for a planned non-commercial
 Traditional Chinese (`zh-TW`) localization of Guild Wars 2 marker packs used by
 Blish HUD Pathing.
 
 No unlicensed marker-pack content is stored or distributed here.
+
+## Project website
+
+The public project website is available at
+**[gw2-pathing.jakeuj.com](https://gw2-pathing.jakeuj.com/)**. It presents the
+current aggregate permission status, release gate, planned localization scope,
+and frequently asked questions in Traditional Chinese.
+
+The site is published from [`docs/`](docs/) through GitHub Pages. It only shows
+aggregate status and public project policy; private Discord links, personal
+information, screenshots, and audit-only evidence are not published there.
+`permissions.yml` remains the machine-readable source of truth.
 
 ## Current status
 
