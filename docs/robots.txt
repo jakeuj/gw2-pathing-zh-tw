@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://jakeuj.github.io/gw2-pathing-zh-tw/sitemap.xml
+Sitemap: https://gw2-pathing.jakeuj.com/sitemap.xml
